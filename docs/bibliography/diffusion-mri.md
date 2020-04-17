@@ -1,18 +1,18 @@
 # Resources for learning the basics of diffusion MRI
 
-## Here as some basic readings to introduuce the field
+## Here as some basic readings to introduce the field
 
-Wandell BA (2016) Clarifying Human White Matter. Annu Rev Neurosci 39(1):annurev-neuro-070815-013815.
+Wandell BA (2016) Clarifying Human White Matter. Annu Rev Neurosci 39(1) [@wandell2016clarifying]
 
 ## Automated Fiber Quantification is a method for analyzing white matter tracts
 
-Here is the paper that introducued the method:
+Here is the paper that introduced the method:
 
-    Yeatman JD, Dougherty RF, Myall NJ, Wandell BA, Feldman HMM (2012) Tract profiles of white matter properties: automating fiber-tract quantification. PLoS One 7(11):e49790.
+    Yeatman JD, Dougherty RF, Myall NJ, Wandell BA, Feldman HMM (2012) Tract profiles of white matter properties: automating fiber-tract quantification. PLoS One 7(11):e49790. [@yeatman2012tract]
 
 And here is a more recent paper introducing a browser-based visualization and analysis tool to support reproducibility and data sharing
 
-    Yeatman JD, Richie-Halford A, Smith JKJK, Keshavan A, Rokem A (2018) A browser-based tool for visualization and analysis of diffusion MRI data. Nat Commun 9(1):940.
+    Yeatman JD, Richie-Halford A, Smith JKJK, Keshavan A, Rokem A (2018) A browser-based tool for visualization and analysis of diffusion MRI data. Nat Commun 9(1):940. [@yeatman2018browser]
 
 ## Blogs and tutorials
 
@@ -26,7 +26,7 @@ https://www.imagilys.com/diffusion-tensor-imaging-dti/
 
 ## AFQ (MATLAB)
 
-The original matlab version of AFQ comes with tutorials and example data. 
+The original matlab version of AFQ comes with tutorials and example data.
 
 1) Clone the AFQ repo (and dependencies listed in README.txt) here: https://github.com/yeatmanlab/AFQ
 2) Read the brief wiki page: https://github.com/yeatmanlab/AFQ/wiki
@@ -48,7 +48,7 @@ All new development is occuring on pyAFQ which leveraged the [Diffusion Imaging 
 
 ## [Healthy Brain Network (HBN)](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/)
 The [HBN data](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/) is an incredible resource containing thousands of subjects with diffusion MRI, behavioral measures and clinical assessments and a great data useage agreement.
-    
+
     Alexander LM, et al. (2017) Data Descriptor : An open resource for transdiagnostic research in pediatric mental health and learning disorders. 1–26.
 
 ## Human Connectome Project
